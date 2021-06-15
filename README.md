@@ -1,5 +1,10 @@
-- 👋 Hi, I’m @saranegi I am pursuing BCA!!
-- 👀 I’m interested in coding and watching anime!!
+- 👋 Hi, I’m SARA, I am pursuing BCA!!
+- 👀 I’m interested in
+-  coding  
+-  watching anime!!
+-  reading about discoveries and inventions
+-  discovering thriller and mysteries!
+-  
 - 🌱 I’m currently learning python.
 
 
