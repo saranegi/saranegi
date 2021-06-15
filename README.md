@@ -4,7 +4,6 @@
 -  watching anime!!
 -  reading about discoveries and inventions
 -  discovering thriller and mysteries!
--  
 - 🌱 I’m currently learning python.
 
 
