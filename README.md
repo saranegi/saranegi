@@ -1,9 +1,9 @@
-- 👋 Hi, I’m SARA, I am pursuing BCA!!
-- 👀 I’m interested in
+- 👋 Hi, I’m SARA, 
+- 👀 I’m interested in:
 -  coding  
 -  watching anime!!
 -  reading about discoveries and inventions
--  discovering thriller and mysteries!
+-  watching thriller and mysteries!
 - 🌱 I’m currently learning python.
 
 
